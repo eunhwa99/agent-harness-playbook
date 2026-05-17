@@ -2,7 +2,7 @@
 
 This is a sanitized example of how the playbook maps to a real Slack automation project.
 
-The original project, `ai-news-alerts`, sends a daily English Slack brief about AI infrastructure, agents, databases, model-serving, and developer tooling trends. This example documents the architecture and workflow shape without exposing private webhooks, state files, or personal configuration.
+The original project, [`ai-news-alerts`](https://github.com/eunhwa99/ai-news-alerts), sends a daily English Slack brief about AI infrastructure, agents, databases, model-serving, and developer tooling trends. This example documents the architecture and workflow shape without exposing private webhooks, state files, or personal configuration.
 
 ## Harness Mapping
 

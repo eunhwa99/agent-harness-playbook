@@ -17,7 +17,7 @@ The private source workflow was applied to production-code changes in a Spring B
 
 ## Reference Implementation
 
-The first project built with this harness style was `ai-news-alerts`, a daily Slack brief for AI infrastructure, agents, databases, model-serving, and developer tooling trends.
+The first project built with this harness style was [`ai-news-alerts`](https://github.com/eunhwa99/ai-news-alerts), a daily Slack brief for AI infrastructure, agents, databases, model-serving, and developer tooling trends.
 
 The project uses the same harness principles documented here:
 

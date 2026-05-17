@@ -19,6 +19,11 @@ The private source workflow was applied to production-code changes in a Spring B
 
 The first project built with this harness style was [`ai-news-alerts`](https://github.com/eunhwa99/ai-news-alerts), a daily Slack brief for AI infrastructure, agents, databases, model-serving, and developer tooling trends.
 
+It was built with two public pieces:
+
+- [`agent-harness-playbook`](https://github.com/eunhwa99/agent-harness-playbook): the delivery workflow and review gates.
+- [`codex-config`](https://github.com/eunhwa99/codex-config): the local Codex skills, hooks, safety checks, and sync automation used to run the workflow.
+
 The project uses the same harness principles documented here:
 
 - Hacker News and official RSS sources are treated as explicit source strategy.
